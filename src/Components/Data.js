@@ -5,6 +5,7 @@ export const movieData = [
     description: "300 movie",
     posterUrl:
       "https://amc-theatres-res.cloudinary.com/v1579118461/amc-cdn/production/2/movies/11800/11792/Poster/p_800x1200_AMC_300_02072019.jpg",
+    trailer:UrIbxk7idYA,
     rating: 5,
   },
   {
@@ -13,6 +14,8 @@ export const movieData = [
     description: "american psycho movie",
     posterUrl:
       "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+          trailer:mibtQWWBg,
+
     rating: 4,
   },
   {
@@ -21,6 +24,8 @@ export const movieData = [
     description: "All Quiet on the Western Front movie",
     posterUrl:
       "https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg",
+        trailer: hf8EYbVxtCY,
+
     rating: 3,
   },
   {
@@ -29,6 +34,8 @@ export const movieData = [
     description: "no time to die movie",
     posterUrl:
       "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+          trailer:BIhNsAtPbPI,
+
     rating: 1,
   },
 ];
